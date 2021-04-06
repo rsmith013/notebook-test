@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - iris=2.4.0
+  - pandas=1.1.1
